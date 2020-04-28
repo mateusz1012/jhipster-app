@@ -1,0 +1,24 @@
+{
+  "mySecondApp": {
+    "film": {
+      "home": {
+        "title": "Film",
+        "createLabel": "Dodaj Film",
+        "createOrEditLabel": "Dodaj lub edytuj: Film",
+        "notFound": "No Films found"
+      },
+      "created": "Utworzono nowy obiekt typu Film z identyfikatorem {{ param }}",
+      "updated": "Uaktualniono obiekt typu Film z identyfikatorem {{ param }}",
+      "deleted": "Usunięto obiekt typu Film z identyfikatorem {{ param }}",
+      "delete": {
+        "question": "Czy na pewno chcesz usunąć Film {{ id }}?"
+      },
+      "detail": {
+        "title": "Film"
+      },
+      "name": "Name",
+      "handle": "Handle",
+      "user": "User"
+    }
+  }
+}
